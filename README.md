@@ -1,2 +1,19 @@
-# asahi-ann
-Asahi Ann Theme for Urn speedrun splitter (based on Breeze Ann with custom colors)
+# Asahi Ann
+A theme for the [Urn](https://github.com/paoloose/urn) speedrun splitter
+
+## Example image
+![](assets/urn3.png)
+
+---
+
+## Dependenies
+- Urn
+
+## Instalation
+Copy the `asahi-ann.css` file to the `themes` folder, once you start Urn you can select it by using the theme shortcut.
+OR copy the `asahi-ann.css` file into Urn's root directory and rename it to `urn-gtk.css` than recompile Urn.
+
+---
+
+### Note
+The world record element wont work in this theme by default, I recommend removing this part from your split files.
