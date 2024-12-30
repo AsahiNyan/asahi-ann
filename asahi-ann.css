@@ -63,6 +63,8 @@ scrollbar* { background-color: transparent; border: none; color: transparent; ma
 
 .current-split { background-color: alpha(currentcolor,0.3); color: @done-bg; font-weight: 700; transition: 0.3s background-color ease; }
 
+.current-split .split-time { color: alpha(@done-bg,0.8); }
+
 .split-delta { color: @ahead-bg; background-color: transparent; padding-left: 10px; padding-right: 10px; margin-top: 3px; margin-bottom: 3px; border-radius: 50px; transition: ease 0.3s background-color; max-width: 60px; min-width: 60px; }
 
 .current-split .delta, .current-split .split-delta, .delta { color: @ahead-bg; background-color: alpha(currentcolor,0.3); padding-left: 10px; padding-right: 10px; margin-top: 3px; margin-bottom: 3px; border-radius: 50px; transition: ease 0.3s background-color; max-width: 60px; min-width: 60px; }
