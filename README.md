@@ -2,7 +2,7 @@
 A theme for the [Urn](https://github.com/paoloose/urn) speedrun splitter
 
 ## Example image
-![](assets/example.png)
+![](assets/urn.png)
 
 ---
 
